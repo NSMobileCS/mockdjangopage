@@ -1,0 +1,23 @@
+#headerbar{
+    background-color: #0C4B33;
+}
+
+#headerleft{
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+}
+
+#tagline{
+    display: inline-block;
+}
+
+#logotext{
+    display: inline-block;
+}
+
+#headerright{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 500px;
+}
