@@ -5,7 +5,8 @@
 #headerleft{
     vertical-align: top;
     display: inline-block;
-    width: 30%;
+    width: 500px;
+    margin-left: 20px;
 }
 
 #tagline{
@@ -14,10 +15,51 @@
 
 #logotext{
     display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-weight: bold;
+}
+
+#desc {
+    display: inline-block;
+    width: 195px;
+    margin-top: 25px;
+    color: #20AA76;
+    padding: 0 0 0 15px;
 }
 
 #headerright{
     vertical-align: top;
     display: inline-block;
-    margin-left: 500px;
+    /*margin-left: 500px;*/
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 15px;
+    color: white;
+}
+
+#getstarted {
+    text-align: center;
+    color: #0C4B33;
+}
+
+button {
+    background-color: #20AA76;
+    border-radius: 5px;
+    width: 220px;
+    height: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+#big-desc {
+    width: 500px;
+    margin: 30px auto 0 auto;
+    font-family: serif;
 }
